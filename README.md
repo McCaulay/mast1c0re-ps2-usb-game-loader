@@ -39,3 +39,4 @@ See the "Games/" directory for some example configuration files.
   * 9.00
   * 10.01
   * 10.50
+  * 10.70
