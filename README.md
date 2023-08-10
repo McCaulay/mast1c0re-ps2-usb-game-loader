@@ -40,3 +40,4 @@ See the "Games/" directory for some example configuration files.
   * 10.01
   * 10.50
   * 10.70
+  * 10.71
